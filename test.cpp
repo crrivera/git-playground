@@ -10,6 +10,7 @@ int main() {
 
     cout << "Hi!" << endl;
 
+    cout << "fork change" << endl;
     cout << "Carlos: first commit" << endl;
     cout << "Carlos: second commit; a new change!" << endl;
 
