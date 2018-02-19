@@ -11,7 +11,7 @@ int main() {
     cout << "Hi!" << endl;
 
     cout << "Carlos: first commit" << endl;
-    cout << "Carlos: second commit" << endl;
+    cout << "Carlos: second commit; a new change!" << endl;
 
 
     cout << "CHANGES!" << endl;
