@@ -13,7 +13,7 @@ int main() {
     cout << "Carlos: first commit" << endl;
     cout << "Carlos: second commit; a new change!" << endl;
 
-    cout << "CHANGES!" << endl;
+    cout << "CHANGES branch!" << endl;
 
     return 0;
 
